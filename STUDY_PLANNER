@@ -1,0 +1,12 @@
+The approach of the Smart Study Planner is to develop an AI and Machine Learning-based system that creates a personalized study schedule according to the individual needs of a student.
+The system collects important information such as previous marks, subject difficulty, days remaining for examinations, available study hours, and current study progress.
+The collected data is preprocessed and converted into a suitable format for the machine learning model. A Random Forest classification algorithm is used to analyze these factors and
+predict the priority of each subject as High, Medium, or Low. 
+Based on the predicted priorities, the system allocates available study time to different subjects and generates a daily or weekly study plan.
+The system can also track completed study sessions and update future recommendations according to the student's progress.
+The findings of the Smart Study Planner show that a personalized and data-driven study schedule can help students organize their preparation more effectively.
+The system identifies subjects that require greater attention by considering factors such as low previous marks, higher difficulty, limited preparation time, and incomplete progress.
+It gives higher priority to subjects that need more focus and helps distribute available study hours accordingly.
+The project also demonstrates how Machine Learning can be used to classify study priorities instead of relying only on a fixed timetable.
+Overall, the system can support better time management, consistent study habits, and focused preparation, while future improvements can include larger datasets, automatic schedule
+adjustment, reminders, and more advanced recommendation techniques.
