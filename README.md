@@ -1,2 +1,16 @@
 # AIML-project
-Smart Study Planner Using AI and Machine Learning is an intelligent study-planning system designed to help students organize their study time and create a personalized study schedule. The system takes information such as subjects, available study hours, exam dates, subject difficulty, and the student's previous performance as input. 
+AI-based tool to create personalized study schedules.
+
+FEATURE: predict performance, Allocates study time intelligently, Simple and beginner-friendly
+
+REQUIREMENT: Python 3.x, NumPy
+
+HOW TO RUN: Install Python, Install NumPy
+
+INPUT EXAMPLE: subject, marks, difficulty
+
+OUTPUT: study schedule
+
+CONCLUSION: This project shows how AI and ML concepts from the syllabus can solve a real-life student problem. It demonstrates:
+
+Intelligent planning, Data-driven decision-making, Practical application of theory
